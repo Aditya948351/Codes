@@ -7,6 +7,6 @@ using namespace std;
     cin>>num;
 
     for(i=num;i>=1; i = i - 1) {
-        cout<<i<<" ";
+        cout<<i<<"  ";
     }
 }
